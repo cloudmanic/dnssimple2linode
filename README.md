@@ -7,7 +7,7 @@ $simple_key = '';
 $linode_key = '';
 ```
 
-From the script from the command line.
+Run this script from the command line.
 
 ```php app.php```
 
